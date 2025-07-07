@@ -14,13 +14,9 @@ FinSight is a modern, AI-powered financial analysis platform designed to provide
 ##  Why It’s Useful for a Company:
 
 -  Saves time by automating reports.
-
 -  Reduces errors and catches weird transactions.
-
 -  Makes it easy for non-finance people to understand financial data.
-
 -  Helps in making smart decisions quickly.
-
 -  Looks sleek and works anywhere — even on the go.
 
 ## Tech Stack
